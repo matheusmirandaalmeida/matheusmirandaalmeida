@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente trabalho como auxiliar administrativo,<br>estudo Analise e desenvolvimento de software, <br>em busca de conhecimento e experiência.
+Estudante de Análise e Desenvolvimento de Sistemas, focado em back-end com Java e Spring Boot, em busca da primeira oportunidade para aplicar na prática meus conhecimentos e evoluir como desenvolvedor.
 
 
 ## 🌐 Socials:
